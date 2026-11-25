@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+
+  <rect width="1000" height="220" rx="22" fill="#202820"/>
+  <rect x="0" y="0" width="8" height="220" rx="4" fill="#82977A"/>
+  <text x="52" y="54" fill="#B1C49F" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3" font-weight="600">PERSONAL PROFILE / 2026</text>
+  <text x="52" y="125" fill="#E7EDE2" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">HELLO, I'M YATRA.</text>
+  <text x="55" y="168" fill="#B1C49F" font-family="Arial, Helvetica, sans-serif" font-size="23">just a computer science student :)</text>
+  <text x="55" y="198" fill="#D0DCCB" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.2">B.TECH CSE (AI)  ·  DEVELOPER  ·  DESIGNER</text>
+
+</svg>
